@@ -12,10 +12,10 @@ body section {
 }
   
 div.irtopo {
-  background-color:rgb(23, 140, 23);
+  background-color:rgb(2, 29, 2);
   border-radius: 50%;
-  width: 55px;
-  height: 55px;
+  width: 33px;
+  height: 33px;
   position: fixed;
   bottom: 25px;
   right: 25px;
@@ -26,9 +26,10 @@ div.irtopo {
 
 div.irtopo a {
   display: block;
-  padding: 12px 8px;
+  padding: 7px 5.4px;
   color: white;
   text-decoration: none;
+  font-size: 10px;
 }
 
 div.irtopo a:hover {
