@@ -6,5 +6,5 @@ O Recicla jampa é um portal, com atuação na cidade de João Pessoa, que tem o
 http://www.maujor.com/tutorial/propriedades-css-para-estilizacao-de-fontes.php#header
 
 ## Protótipos
-![alt text](C:/Users/Thiago Melquíades/Desktop/site-reciclajampa/img/home.jpg)
+![alt text](/Users/Thiago Melquíades/Desktop/site-reciclajampa/img/home.jpg)
 
